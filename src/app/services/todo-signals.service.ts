@@ -17,7 +17,7 @@ export class TodoSignalsService {
       });
 
       /* O mudate é responsável por fazer a alteração(update) 
-        baseado em algum valor anterior
+        baseado em algum valor atual
       */
 
          this.saveTodosInLocalStorage();
