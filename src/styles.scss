@@ -70,6 +70,20 @@ body {
   height: 100%;
 }
 
+@media (min-width: 400px) {
+  
+  .todo_form_actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    margin-bottom: 10rem;
+  }
+  
+
+}
+
 .todo_form_title {
   margin-top: 1rem !important;
   color: white;
