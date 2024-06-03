@@ -57,11 +57,11 @@ npm start
 
 * #### Angular 16
 
-* #### PrimeNg
+* #### Angular Material
 
 * #### TypeScript
 
-* #### Chart.js
+
 
 
   
